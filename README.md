@@ -1,5 +1,7 @@
 # backstage-kyverno
 
+![screenshot](docs/assets/screenshot.PNG)
+
 <!--toc:start-->
 
 - [Description](#description)
@@ -24,7 +26,10 @@
 
 The Backstage-policy-reporter-plugin integrates [Policy Reporter](https://kyverno.github.io/policy-reporter/) with Backstage to provide a clear and detailed view of Kyverno Policies applied to your entities
 
-## Setup Backstage with Kyverno-policy-reports
+## Setup Backstage with policy-reporter plugin
+
+> [!NOTE]
+> It's currently not possible to integrate this with a Backstage instance since the packages aren't published yet.
 
 ### Step 1: Install packages
 
