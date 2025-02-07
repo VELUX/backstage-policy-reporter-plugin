@@ -1,5 +1,8 @@
 # backstage-kyverno
 
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained. The plugin has been moved to the official Kyverno organization's [repository](https://github.com/kyverno/backstage-policy-reporter-plugin).
+
 ![screenshot](docs/assets/screenshot.PNG)
 
 <!--toc:start-->
